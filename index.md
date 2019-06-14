@@ -12,6 +12,10 @@ I personally love the idea of working from home. Due to this urge to not have to
 ![](SoftwareDev.PNG)
 2. [Video Game Developer](https://www.seek.com.au/job/39228643?searchrequesttoken=6f2fe630-dca4-40e8-8f0a-72e750f7b525&type=standout)
 ![](GameDev.PNG)
+# Myers-Briggs Test
+**Result:** ISFP-T 'Adventurer' - test taken [here.](https://www.16personalities.com)
+# Learning Test
+**Result:** Auditory/Visual learner 35% Auditory, 35% Visual, 30% Tactile - test taken [here.](http://www.educationplanner.org/students/self-assessments/learning-styles.shtml)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/samwood97/Profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
