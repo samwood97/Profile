@@ -22,53 +22,16 @@ I personally love the idea of working from home. Due to this urge to not have to
 These tests are fun to do and to compare with others to see how similar, or different, you are to each other. I personally think these tests are too volatile, it's very dependant on you current mood, situation, lifestyle etc. These tests I do not believe give an accurate insite to someones personality. It may give a guide, or a rough estimate as to how someone thinks or acts in given circumstances. I do not believe this will effect the way I will interact with a team, as no matter the information given, I am still going to remain myself and not change.
 
 # Project Idea
-## Overview 100
+
+### Overview 100
 I would like to do a simple video game in an engine not yet decided.
-## Motivation 100
+### Motivation 100
 Video games are something that I will have to be able to create at some point in my IT career reguardless. I've done designs of basic games with tools such as Sketch and Game Maker, but never in a proper game engine or using code such as JavaScript. This would be a big learning curve for me, and would allow me to respect the large triple A titles I play in my spare time.
-## Description 500
+### Description 500
 The game I am thinking of will act similar to the well-known game Mario. A side scroller, with the objective being to reach the 'finish line'. Adding enemies, checkpoints, lives, and obstacles in the players way. A level selector, with multiple (2-3) levels with a variety of different themes.
-## Tools and Technologies 100
+### Tools and Technologies 100
 I would like to try the Unity Engine to code this, but I am unsure yet as to what exaclty would be the best to use.
-## Skills Required 100
+### Skills Required 100
 Basic coding skills will be required to perform the task, along with some very basic artistic skills for level design and character design. Animation will be a bonus if able to implement. As Unity uses C# code, it would take a fair bit of research in order to take on even a simple tast, as I personally have no prior knowledge in C at all.
-## Outcocme 100
+### Outcome 100
 If the game is successfully created, then I will have gained skills required to make basic games. This will increase my knowledge in the IT space and allow me to continue to persue a degree in IT and then able to reference this unit in potentially a job interview post study in a Game Studio.
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/samwood97/Profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samwood97/Profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
