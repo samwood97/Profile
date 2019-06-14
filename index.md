@@ -16,6 +16,25 @@ I personally love the idea of working from home. Due to this urge to not have to
 **Result:** ISFP-T 'Adventurer' - test taken [here.](https://www.16personalities.com)
 # Learning Test
 **Result:** Auditory/Visual learner 35% Auditory, 35% Visual, 30% Tactile - test taken [here.](http://www.educationplanner.org/students/self-assessments/learning-styles.shtml)
+# Career Test
+**Result:** Holland code AICERS, Artistic, top three jobs suited to me are: Writer, Desktop Publisher and Animator - test taken [here.](https://www.123test.com/career-test/)
+# Evaluation of Results
+These tests are fun to do and to compare with others to see how similar, or different, you are to each other. I personally think these tests are too volatile, it's very dependant on you current mood, situation, lifestyle etc. These tests I do not believe give an accurate insite to someones personality. It may give a guide, or a rough estimate as to how someone thinks or acts in given circumstances. I do not believe this will effect the way I will interact with a team, as no matter the information given, I am still going to remain myself and not change.
+
+# Project Idea
+## Overview 100
+I would like to do a simple video game in an engine not yet decided.
+## Motivation 100
+Video games are something that I will have to be able to create at some point in my IT career reguardless. I've done designs of basic games with tools such as Sketch and Game Maker, but never in a proper game engine or using code such as JavaScript. This would be a big learning curve for me, and would allow me to respect the large triple A titles I play in my spare time.
+## Description 500
+The game I am thinking of will act similar to the well-known game Mario. A side scroller, with the objective being to reach the 'finish line'. Adding enemies, checkpoints, lives, and obstacles in the players way. A level selector, with multiple (2-3) levels with a variety of different themes.
+## Tools and Technologies 100
+I would like to try the Unity Engine to code this, but I am unsure yet as to what exaclty would be the best to use.
+## Skills Required 100
+Basic coding skills will be required to perform the task, along with some very basic artistic skills for level design and character design. Animation will be a bonus if able to implement. As Unity uses C# code, it would take a fair bit of research in order to take on even a simple tast, as I personally have no prior knowledge in C at all.
+## Outcocme 100
+If the game is successfully created, then I will have gained skills required to make basic games. This will increase my knowledge in the IT space and allow me to continue to persue a degree in IT and then able to reference this unit in potentially a job interview post study in a Game Studio.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/samwood97/Profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
