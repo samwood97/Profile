@@ -1,3 +1,7 @@
+Samuel Wood, S3794612, S3794612@STUDENT.RMIT.EDU.AU
+I am Australian born in Perth, WA, Australia. I am 21 years old and graduated year 12 in 2015. I enjoy playing video games in my spare time away from work and study. When I was 10 years old my family and I went to Tasmania for a holiday, there my parents bought me a 3x3x3 rubik's cube. Now I am able to solve that same rubik's cube in just under 2 minutes.
+
+I have always had an interest and passion for Computing and Information Technology since I was a child. I enjoyed building computers, learning how computers worked and playing video games with my dad in my spare time. I was exposed to computer games and operating computer systems at a young age, I began using Windows 95 when I was about 6 years old.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/samwood97/Profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
