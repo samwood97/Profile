@@ -7,8 +7,11 @@ I am Australian born in Perth, WA, Australia. I am 21 years old and graduated ye
 # Interest in IT
 I have always had an interest and passion for Computing and Information Technology since I was a child. I enjoyed building computers, learning how computers worked and playing video games with my dad in my spare time. I was exposed to computer games and operating computer systems at a young age, I began using Windows 95 when I was about 6 years old. I have continued to use computers through my student life and beyond. Through highschool I entered programming and robotics events and also became knowledgable in using Adobe Photoshop in my photography class recieving a 97% by the end of year 12.
 # Ideal Job
-I personally love the idea of working from home. Due to this urge to not have to travel to work every morning, my dream job would be becoming an online personality, something like a Streamer or Youtuber, working from home and creating content for _MY_ community. This itself does not actually require a degree, nor true knowledge of IT, although it is in the space of IT and also I believe this job is quite unrealistic. Due to this belief I would love to be a freelance programmer, or work on projects such as game developement of software developement.
-
+I personally love the idea of working from home. Due to this urge to not have to travel to work every morning, my dream job would be becoming an online personality, something like a Streamer or Youtuber, working from home and creating content for _MY_ community. This itself does not actually require a degree, nor true knowledge of IT, although it is in the space of IT and also I believe this job is quite unrealistic. Due to this belief I would love to be a freelance programmer, or work on projects such as game developement of software developement. (As my dream is to be my own boss, below are some jobs that are close to what I would like to do).
+1. [Software Developer](https://www.seek.com.au/job/39231416?type=standard&searchrequesttoken=048077a9-b32d-4e6e-baf1-63a2ddeabb14)
+![Job1](Profile/SoftwareDev.PNG)
+2. [Video Game Developer](https://www.seek.com.au/job/39228643?searchrequesttoken=6f2fe630-dca4-40e8-8f0a-72e750f7b525&type=standout)
+![Job2](Profile/GameDev.PNG)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/samwood97/Profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
