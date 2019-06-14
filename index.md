@@ -23,15 +23,15 @@ These tests are fun to do and to compare with others to see how similar, or diff
 
 # Project Idea
 
-### Overview 100
+### Overview
 I would like to do a simple video game in an engine not yet decided.
-### Motivation 100
+### Motivation
 Video games are something that I will have to be able to create at some point in my IT career reguardless. I've done designs of basic games with tools such as Sketch and Game Maker, but never in a proper game engine or using code such as JavaScript. This would be a big learning curve for me, and would allow me to respect the large triple A titles I play in my spare time.
-### Description 500
+### Description
 The game I am thinking of will act similar to the well-known game Mario. A side scroller, with the objective being to reach the 'finish line'. Adding enemies, checkpoints, lives, and obstacles in the players way. A level selector, with multiple (2-3) levels with a variety of different themes.
-### Tools and Technologies 100
-I would like to try the Unity Engine to code this, but I am unsure yet as to what exaclty would be the best to use.
-### Skills Required 100
+### Tools and Technologies
+I would like to try the Unity Engine to code this, but I am unsure yet as to what exaclty would be the best to use. Youtube would be a large tool in the ability to learn the tools required to create this game, along with potentially Lynda and free online tutorials.
+### Skills Required
 Basic coding skills will be required to perform the task, along with some very basic artistic skills for level design and character design. Animation will be a bonus if able to implement. As Unity uses C# code, it would take a fair bit of research in order to take on even a simple tast, as I personally have no prior knowledge in C at all.
-### Outcome 100
+### Outcome
 If the game is successfully created, then I will have gained skills required to make basic games. This will increase my knowledge in the IT space and allow me to continue to persue a degree in IT and then able to reference this unit in potentially a job interview post study in a Game Studio.
